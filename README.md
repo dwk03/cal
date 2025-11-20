@@ -9,11 +9,18 @@ The user interfaces looks like this:
 
 Using:
 Examples:
-https://github.com/user-attachments/assets/b140a03e-157e-4faf-87c3-b35833807d67
+
+
+
+https://github.com/user-attachments/assets/226288be-2c28-4391-b461-51810da0b8e8
+
+
 
 If wrong:
 
-https://github.com/user-attachments/assets/861300b0-684b-475f-9a09-8fec1cdc9c6a
 
 
+https://github.com/user-attachments/assets/691b2b16-2068-4d67-8794-f5ddc6b458e2
 
+
+Thank you for downloading Cal v.1.0!
