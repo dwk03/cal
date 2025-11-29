@@ -1,4 +1,4 @@
-# cal v.0.2 Preview
+# cal++ v.0.2 Preview
 A modern and simple calculator.
 
 
