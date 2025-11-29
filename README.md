@@ -18,10 +18,12 @@ A modern and simple calculator.
 Main new UI and old UI like this:
 <img width="1017" height="397" alt="image" src="https://github.com/user-attachments/assets/04565979-85c8-4809-8734-3202d6d782b5" />
 # v.0.1 vs v.0.2
-#v.0.1:
+- v.0.1:
 - Black wallpaper, horror, scary(kinda).
 - Just simple is a calculator
-#v.0.2
+
+
+- v.0.2
 - Modern dark blue wallpaper, simple, not scary.
 - Still a calculator but bigger than older version.
 
